@@ -1,6 +1,7 @@
 # hand-gesture-to-voice-converter-and-wheel-chair-controller
 
 For video reference : https://www.linkedin.com/posts/anubrata-shil-348a75208_smarthandgloves-accessibility-innovation-activity-7175560815620603904-UvgW?utm_source=share&utm_medium=member_desktop
+
 🔹 **Gesture to Voice Converter:** The default mode empowers users with seamless gesture recognition, seamlessly translating hand movements into clear and concise voice commands. This feature is a game-changer for individuals with speech impairments or those seeking hands-free communication, significantly enhancing accessibility.
 
 🔹 **Wheelchair Control:** The second mode shatters barriers by offering intuitive wheelchair control functionalities. By harnessing natural hand gestures, users gain precise and effortless control over their wheelchairs, fostering newfound independence and mobility.
